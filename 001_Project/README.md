@@ -1,6 +1,10 @@
 # 001_Project
 This is my first C program in this repository.
 
+## How to Compile and Run
+To compile the project, use the following command: make
+To run the program: ./bin/main
+
 ## 
 It print "Hello, Github!" to the console.
 
